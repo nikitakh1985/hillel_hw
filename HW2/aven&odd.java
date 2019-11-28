@@ -1,4 +1,4 @@
-public class test {
+public class Aven&odd {
     public static void main(String[] args) {
         int[] a = {2, 3, 4, 5, 9, 33, 66, 97, 27, 10};
         for (int i = 0; i < a.length; i++) {
