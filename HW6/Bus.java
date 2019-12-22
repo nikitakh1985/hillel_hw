@@ -19,7 +19,7 @@ public class Bus extends Car {
 
     @Override
     public String toString() {
-        return "ID: " + getid() +" " + getmark() + "  " + "Bus [numberOfSeats="
+        return "ID: " + getid() + " " + getmark() + "  " + "Bus [numberOfSeats="
                 + numberOfSeats + ", price=" + getPrice() +
                 ", fuelConsumption=" + getFuelConsumption() + ", maxSpeed=" + getMaxSpeed() + "]";
     }
