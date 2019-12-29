@@ -1,4 +1,4 @@
-package HW6;
+package HW7;
 
 public class Bus extends Car {
     private int numberOfSeats;
